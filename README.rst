@@ -11,7 +11,7 @@ Description
 
 The files of the interactive figure (*14 three-dimensional models*) of **Figure 5** are available in the x3d file format and archived on Zenodo. 
 
-* `Figure 5 <https://astroneb.github.io/WR_PN_Kinematic_Models/figure5/>`_. The interactive figure of the morpho-kinematic mesh models of the PNe: M 3-30, Hb 4, IC 1297, Th 2-A, Pe 1-1, M 1-32, M 3-15, M 1-25, Hen 2-142, K 2-16, MGC 6578, M 2-42, NGC 6567 and NGC 6629.
+* `Figure 5 <https://astroneb.github.io/WR_PN_Kinematic_Models/figure5/>`_. The interactive figure of the morpho-kinematic mesh models (14 models in the X3D file format) of the PNe: M 3-30, Hb 4, IC 1297, Th 2-A, Pe 1-1, M 1-32, M 3-15, M 1-25, Hen 2-142, K 2-16, MGC 6578, M 2-42, NGC 6567 and NGC 6629 in the X3DOM framework.
 
 Citation
 ========
