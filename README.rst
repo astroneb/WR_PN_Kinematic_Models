@@ -2,6 +2,9 @@
 Morpho-kinematic properties of Wolf-Rayet planetary nebulae. Supplementary Data
 ===============================================================================
 
+.. image:: https://img.shields.io/badge/DOI-10.5281/zenodo.5393974-blue.svg
+    :target: https://doi.org/10.5281/zenodo.5393974
+    :alt: Zenodo
 
 Morpho-kinematic properties of Wolf-Rayet planetary nebulae. Supplementary Data
 ===============================================================================
@@ -35,5 +38,5 @@ Learn More
 ==================  =============================================
 **Repository**      https://github.com/astroneb/WR_PN_Kinematic_Models
 **GitPage**         https://astroneb.github.io/WR_PN_Kinematic_Models/
-**Archive**         
+**Archive**         `10.5281/zenodo.5393974 <https://doi.org/10.5281/zenodo.5393974>`_
 ==================  =============================================
