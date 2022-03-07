@@ -14,11 +14,13 @@ x3dom_include.findPackagesJSON = function ( basePath )
     {
         if ( xhr.status !== 200 )
         {
-            x3dom_include.findPackagesJSON( "../" + basePath );
+            //x3dom_include.findPackagesJSON( "../" + basePath );
+            x3dom_include.findPackagesJSON( basePath );
         }
         else
         {
-            x3dom_include.includeCSS( basePath + "src/x3dom.css" );
+            //x3dom_include.includeCSS( basePath + "src/x3dom.css" );
+            x3dom_include.includeCSS( basePath + "x3dom.css" );
             x3dom_include.includeScripts( basePath, JSON.parse( xhr.response ) );
         }
     } );
