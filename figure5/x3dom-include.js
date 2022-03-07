@@ -8,7 +8,7 @@ x3dom_include.findPackagesJSON = function ( basePath )
 
     var xhr = new XMLHttpRequest();
 
-    xhr.open( "GET", basePath + "build/core/packages.json", false );
+    //xhr.open( "GET", basePath + "build/core/packages.json", false );
 
     xhr.addEventListener( "load", function ( e )
     {
