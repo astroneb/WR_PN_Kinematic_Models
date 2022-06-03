@@ -23,13 +23,13 @@ Citation
 
    @article{Danehkar2021,
      author = {{Danehkar}, A.},
-     title = {Morpho-kinematic properties of Wolf-Rayet planetary nebulae},
-     journal = {ApJS, accepted (arXiv:2107.03994)},
-     volume = {},
-     number = {},
-     pages = {},
+     title = {Morpho-kinematic Properties of Wolf-Rayet Planetary Nebulae},
+     journal = {ApJS},
+     volume = {260},
+     number = {1},
+     pages = {14},
      year = {2022},
-     doi = {}
+     doi = {10.3847/1538-4365/ac5cca}
    }
 
 Learn More
